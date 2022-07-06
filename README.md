@@ -2,8 +2,8 @@
 
 - 👋 oi, eu sou @welitim007Reidelas
 - 👀 estos interessado em progamaçao
-- 🌱 estou apremdendo progamaçao 
-- 💞️ eu gosto de joga bola 
+- 🌱 estou apremdendo progamaçao
+- 💞️ eu gosto de dar aulas no fut 
 - 📫 meu email É welinton.machado@escola.pr.gov.br 
 
 <!---
